@@ -164,11 +164,6 @@ module.exports =
                 'tooltip': 'Run script'
                 'iconset': 'fa'
             @toolBar.addButton
-                'icon': 'step-forward'
-                'callback': 'script:run-by-line-number'
-                'tooltip': 'Run by Line Number'
-                'iconset': 'fa'
-            @toolBar.addButton
                 'icon': 'stop'
                 'callback': 'script:kill-process'
                 'tooltip': 'Stop script'
@@ -200,6 +195,17 @@ module.exports =
                 'icon': 'globe'
                 'callback': 'atom-live-server:start-3000'
                 'tooltip': 'HTML Preview'
+        @toolBar.addSpacer()
+        @toolBar.addButton
+            'icon': 'code-fork'
+            'callback': 'gtihub:toggle-git-tab'
+            'tooltip': 'Toggle Git Tab'
+            'iconset': 'fa'
+        @toolBar.addButton
+            'icon': 'github'
+            'callback': 'github:toggle-github-tab'
+            'tooltip': 'Toggle GitHub Tab'
+            'iconset': 'fa'
 
         @toolBar.addSpacer()
         @toolBar.addButton
