@@ -198,7 +198,7 @@ module.exports =
         @toolBar.addSpacer()
         @toolBar.addButton
             'icon': 'code-fork'
-            'callback': 'gtihub:toggle-git-tab'
+            'callback': 'github:toggle-git-tab'
             'tooltip': 'Toggle Git Tab'
             'iconset': 'fa'
         @toolBar.addButton
