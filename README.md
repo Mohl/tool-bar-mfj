@@ -29,7 +29,6 @@ My custom tool-bar plugin that adds an atom toolbar with functions that I use ev
 * **Beautify** (requires `atom-beautify` package)
 * -
 * **Run script** (requires `script` package)
-* **Run by line** (requires `script` package)
 * **Stop script** (requires `script` package)
 * **Configure** (requires `script` package)
 * -
@@ -37,6 +36,9 @@ My custom tool-bar plugin that adds an atom toolbar with functions that I use ev
 * **Reload window** (if in Dev Mode)
 * **Toggle devtools** (if in Dev Mode)
 * **Git commands** (requires `git-plus` package)
+* -
+* **Toggles the Git Tab**
+* **Toggles the GitHub Tab**
 * -
 * **Markdown Preview**
 * **HTML preview** (requires `atom-html-preview` package)
