@@ -2,7 +2,7 @@
   "name": "tool-bar-basic",
   "description": "An essential tool-bar that adds many commonly used actions",
   "main": "./src/tool-bar-basic",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
