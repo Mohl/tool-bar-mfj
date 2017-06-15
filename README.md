@@ -14,35 +14,35 @@ My custom tool-bar plugin that adds an atom toolbar with functions that I use ev
 * **Open folder**
 * **Save file**
 * **List projects** (requires `project-manager` package)
-* -
+* \-
 * **Find in buffer**
-* -
+* \-
 * **Toggle fullscreen**
 * **Toggle tree-view**
 * **Toggle minimap**
 * **Toggle exposé** (requires `expose` package)
-* -
+* \-
 * **Auto indent**
 * **Fold all**
 * **Unfold all**
 * **Block comment**
 * **Beautify** (requires `atom-beautify` package)
-* -
+* \-
 * **Run script** (requires `script` package)
 * **Stop script** (requires `script` package)
 * **Configure** (requires `script` package)
-* -
+* \-
 * **Opens a terminal window (split bottom)**  (requires `term2` or `term3` or `terminal-plus` package)
 * **Reload window** (if in Dev Mode)
 * **Toggle devtools** (if in Dev Mode)
 * **Git commands** (requires `git-plus` package)
-* -
+* \-
 * **Toggles the Git Tab**
 * **Toggles the GitHub Tab**
-* -
+* \-
 * **Markdown Preview**
 * **HTML preview** (requires `atom-html-preview` package)
-* -
+* \-
 * **Command Pallet**
 * **Settings**
 
