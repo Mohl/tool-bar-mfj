@@ -5,8 +5,7 @@
   "version": "2.0.1",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlexNewson/tool-bar-basic"
+    "url": "https://github.com/AlexNewson/tool-bar-basic"
   },
   "bugs": {
     "url": "https://github.com/AlexNewson/tool-bar-basic/issues"
