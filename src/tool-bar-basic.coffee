@@ -84,13 +84,13 @@ module.exports =
             'iconset': 'fa'
 
         @toolBar.addButton
-            'icon': 'level-up'
+            'icon': 'level-up-alt'
             'callback': 'editor:fold-all'
             'tooltip': 'Fold all'
             'iconset': 'fa'
 
         @toolBar.addButton
-            'icon': 'level-down'
+            'icon': 'level-down-alt'
             'callback': 'editor:unfold-all'
             'tooltip': 'Unfold all'
             'iconset': 'fa'
@@ -169,7 +169,7 @@ module.exports =
                 'tooltip': 'Stop script'
                 'iconset': 'fa'
             @toolBar.addButton
-                'icon': 'gears'
+                'icon': 'cogs'
                 'callback': 'script:run-options'
                 'tooltip': 'Configure script'
                 'iconset': 'fa'
@@ -197,22 +197,17 @@ module.exports =
                 'tooltip': 'HTML Preview'
         @toolBar.addSpacer()
         @toolBar.addButton
-            'icon': 'code-fork'
-            'callback': 'github:toggle-git-tab'
-            'tooltip': 'Toggle Git Tab'
-            'iconset': 'fa'
-        @toolBar.addButton
-            'icon': 'github'
+            'icon': 'code-branch'
             'callback': 'github:toggle-github-tab'
             'tooltip': 'Toggle GitHub Tab'
             'iconset': 'fa'
 
         @toolBar.addSpacer()
         @toolBar.addButton
-            icon: 'navicon-round'
-            callback: 'command-palette:toggle'
-            tooltip: 'Toggle Command Palette'
-            iconset: 'ion'
+            'icon': 'navicon-round'
+            'callback': 'command-palette:toggle'
+            'tooltip': 'Toggle Command Palette'
+            'iconset': 'ion'
         @toolBar.addButton
             'icon': 'gear'
             'callback': 'settings-view:open'
