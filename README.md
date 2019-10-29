@@ -43,3 +43,7 @@ apm install tool-bar-mfj
 ## License
 
 [The MIT License](https://github.com/AlexNewson/tool-bar-basic/LICENSE.md)
+
+## Credits
+
+Based on (tool-bar-basic)[https://github.com/AlexNewson/tool-bar-basic] (Thanks to AlexNewson!) 
