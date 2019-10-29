@@ -1,22 +1,22 @@
 {
-  "name": "tool-bar-basic",
+  "name": "tool-bar-mfj",
   "description": "An essential tool-bar that adds many commonly used actions",
-  "main": "./src/tool-bar-basic",
-  "version": "2.0.6",
+  "main": "./src/tool-bar-mfj",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/AlexNewson/tool-bar-basic"
+    "url": "https://github.com/Mohl/tool-bar-mfj"
   },
   "bugs": {
-    "url": "https://github.com/AlexNewson/tool-bar-basic/issues"
+    "url": "https://github.com/Mohl/tool-bar-mfj/issues"
   },
   "keywords": [
     "toolbar",
     "tool-bar",
-    "tool-bar-basic",
+    "tool-bar-mfj",
     "tool",
     "bar",
-    "basic",
+    "mfj",
     "menu"
   ],
   "dependencies": {

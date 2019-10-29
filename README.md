@@ -1,52 +1,30 @@
-# Toolbar Basic - a tool-bar plugin
+# MfJ Toolbar - a tool-bar plugin
 
 ## About
 
 This is a plugin for the [Atom Tool Bar](https://atom.io/packages/tool-bar) package.
 
-My custom tool-bar plugin that adds an atom toolbar with functions that I use everyday.
-
-![toolbarbasic](https://cloud.githubusercontent.com/assets/6761721/16498220/98136094-3ef2-11e6-83d0-1392d21039ba.png)
+This was created to support Content Editors for the new MfJ Website.
 
 ## Buttons
 
 * **Open file**
 * **Open folder**
 * **Save file**
-* **List projects** (requires `project-manager` package)
 * \-
 * **Find in buffer**
 * \-
 * **Toggle fullscreen**
 * **Toggle tree-view**
-* **Toggle minimap**
-* **Toggle exposé** (requires `expose` package)
 * \-
-* **Auto indent**
-* **Fold all**
-* **Unfold all**
-* **Block comment**
-* **Beautify** (requires `atom-beautify` package)
+* **Hugo start** (requires Hugo installed)
+* **Hugo stop** (requires Hugo installed)
 * \-
-* **Run script** (requires `script` package)
-* **Stop script** (requires `script` package)
-* **Configure** (requires `script` package)
-* \-
-* **Opens a terminal window (split bottom)**  (requires `term2` or `term3` or `terminal-plus` package)
-* **Reload window** (if in Dev Mode)
-* **Toggle devtools** (if in Dev Mode)
-* **Git commands** (requires `git-plus` package)
-* \-
-* **Toggles the Git Tab**
-* **Toggles the GitHub Tab**
+* **Commit**
 * \-
 * **Markdown Preview**
-* **HTML preview** (requires `atom-html-preview` package)
 * \-
-* **Command Pallet**
-* **Settings**
-
-**Note**: The toolbar buttons that require other packages will only appear if you have those packages installed
+* **Open MfJ**
 
 ## Installation
 
@@ -59,7 +37,7 @@ apm install tool-bar
 Then you install the `tool-bar-basic` package:
 
 ```bash
-apm install tool-bar-basic
+apm install tool-bar-mfj
 ```
 
 ## License
