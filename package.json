@@ -2,7 +2,7 @@
   "name": "tool-bar-mfj",
   "description": "An essential tool-bar that adds many commonly used actions",
   "main": "./src/tool-bar-mfj",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/Mohl/tool-bar-mfj"
